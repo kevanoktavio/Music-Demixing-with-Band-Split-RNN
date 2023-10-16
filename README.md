@@ -1,8 +1,59 @@
-## For MLA Development:
+# For MLA Development
+
+## Getting Started
+
+
+### Setting up development environemnt 
+1. Check your python version    
+   ```sh 
+   python --version
+   ``` 
+   
+Make sure python version >= 3.11.0, install the latest version [here](https://www.python.org/downloads/)
+
+
+### Setting up virtual environment 
+
+1. Create virtual environment     
+   ```sh
+   python3 -m venv venv OR
+   python -m venv venv
+   
+2. Activate virtual environment  
+   ```sh
+   (for Mac):
+   cd src
+   source venv/bin/activate
+
+   (for Win):
+   venv\Scripts\activate.bat
+   cd src
+   
+3. Install modules in requirements.txt     
+   ```sh
+   pip install -r requirements.txt
+
+### After initial setup
+
 1. Always run from src directory first
 ```
 cd src
 ```
+
+2. Activate virtual environment
+   ```sh
+   (for Mac):
+   cd src
+   source venv/bin/activate
+
+   (for Win):
+   venv\Scripts\activate.bat
+   cd src
+
+3. Remember to install modules in requirements.txt again if other team members have made changes
+   ```sh
+   pip install -r requirements.txt
+   
 
 # Original github repo starts from here
 
