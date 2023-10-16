@@ -1,3 +1,9 @@
+## For MLA Development:
+1. Always run from src directory
+```
+cd src
+```
+
 <div align="center">
     <img src="./images/CL Banner.png"/>
 </div>
