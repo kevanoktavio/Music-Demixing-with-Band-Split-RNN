@@ -14,7 +14,7 @@ The repository has been modified from [Amantur Amatov](https://github.com/amante
     <img src="./images/competition_results.png" alt="competition results" width="70%">
   </a>
 </div>
-
+tracy sucks
 ---
 
 ## Table of Contents
