@@ -1,8 +1,10 @@
 ## For MLA Development:
-1. Always run from src directory
+1. Always run from src directory first
 ```
 cd src
 ```
+
+# Original github repo starts from here
 
 <div align="center">
     <img src="./images/CL Banner.png"/>
